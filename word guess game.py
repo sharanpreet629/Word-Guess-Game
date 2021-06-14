@@ -59,7 +59,7 @@ def gameplay():
         turns-=1
         
         
-       #checking if player won the guess:
+       #checking if player won the guess then ending the game:
               
         if movie == display:
          
